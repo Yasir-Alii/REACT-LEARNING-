@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h3>REACT-HOME</h3>
+    <h3>REACT-HOME PAGE </h3>
     </>
   )
 }
