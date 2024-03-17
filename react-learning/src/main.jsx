@@ -11,6 +11,7 @@ import Header from './assets/Components/Header.jsx'
 //   )
 // }
 //
+//checkout
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
